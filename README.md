@@ -10,10 +10,6 @@ https://discord.com/oauth2/authorize?client_id=893237336811405353&permissions=27
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spyvanilla&show_icons=true&theme=radical&count_private=true"/>
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="195em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyvanilla&show_icons=true&theme=radical&count_private=true"/>
-</a>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
