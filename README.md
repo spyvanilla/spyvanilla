@@ -3,8 +3,6 @@
 - ♂️ Ele/dele
 - 📊 Trabalhando em meu bot do discord
 - 📚 Estudando bibliotecas em python
-- 🤖 Beta do meu bot do discord -> 
-https://discord.com/oauth2/authorize?client_id=893237336811405353&permissions=274878065664&scope=bot
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spyvanilla&show_icons=true&theme=radical&count_private=true"/>
