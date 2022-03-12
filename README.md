@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Levi! 👋
 
-- ♂️ Ele/dele
 - 📊 Trabalhando em meu bot do discord
 - 📚 Estudando bibliotecas em python
 
