@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Levi! 👋
 
+- 🥇 Sou muito bom em python :)
 - 📊 Trabalhando em meu bot do discord
 - 📚 Aprendendo o básico de HTML, CSS e Javascript
 
