@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Levi! 👋
 
-- 🥇 Sou muito bom em python :)
-- 📚 Aprendendo o básico de React
+- 🥇 Desenvolvedor Fullstack
+- 📚 React | Flask | PostgreSQL
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spyvanilla&show_icons=true&theme=radical&count_private=true"/></br>
