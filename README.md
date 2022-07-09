@@ -4,8 +4,7 @@
 - 📚 React | Flask | PostgreSQL
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spyvanilla&show_icons=true&theme=radical&count_private=true"/></br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyvanilla&show_icons=true&theme=radical&count_private=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=spyvanilla&show_icons=true&theme=radical&count_private=true"/>
 </a>
 
 <div style="display: inline_block"><br>
