@@ -5,7 +5,8 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=spyvanilla&show_icons=true&theme=radical&count_private=true"/><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyvanilla&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyvanilla&theme=radical"/><br>
+  <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyvanilla&layout=compact&langs_count=16&theme=radical"/>
 </a>
 
 <div style="display: inline_block"><br>
