@@ -22,5 +22,3 @@
   <img align="center" alt="POSTGRESQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="REDIS" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </div>
-
-![Snake animation](https://github.com/spyvanilla/spyvanilla/blob/output/github-contribution-grid-snake.svg)
